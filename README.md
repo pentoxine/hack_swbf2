@@ -1,4 +1,4 @@
-# Hack for Star Wars Battlefont II
+# Hack for Star Wars Battlefront II
 
 ---
 
